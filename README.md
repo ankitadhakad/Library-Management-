@@ -5,11 +5,7 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Database Schema](#database-schema)
-- [API Endpoints](#api-endpoints)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+
 
 ## Project Overview
 The **Library Management System** is a web application designed to help libraries manage their resources efficiently. It provides features to manage books, users, and borrow/return activities while ensuring a seamless user experience.
