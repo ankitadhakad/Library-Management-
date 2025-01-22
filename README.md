@@ -55,7 +55,7 @@ The **Library Management System** is a web application designed to help librarie
 
 6. Start the server:
    ```bash
-   npm start
+   node app.js
    ```
 
 7. Access the application:
